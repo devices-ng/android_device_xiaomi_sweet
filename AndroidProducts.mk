@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_sweet.mk
+    $(LOCAL_DIR)/ng_sweet.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_sweet-user \
-    aosp_sweet-userdebug \
-    aosp_sweet-eng
+    ng_sweet-user \
+    ng_sweet-userdebug \
+    ng_sweet-eng

@@ -1,0 +1,40 @@
+[
+    {
+        "repository": "android_device_xiaomi_sm6150-common",
+        "target_path": "device/xiaomi/sm6150-common"
+    },
+    {
+        "repository": "vantoman/kernel_xiaomi_sm6150",
+        "target_path": "kernel/xiaomi/sm6150",
+        "branch": "courbet-13"
+    },
+    {
+        "repository": "droid-ng/android_device_xiaomi_sm6150-clang",
+        "target_path": "prebuilts/clang/host/linux-x86/clang-playground",
+        "branch": "15",
+        "remote": "gitlab"
+    },
+    {
+        "repository": "droid-ng/android_vendor_xiaomi_sweet",
+        "target_path": "vendor/xiaomi/sweet",
+        "branch": "ng-v4",
+        "remote": "gitlab"
+    },
+    {
+        "repository": "droid-ng/android_vendor_xiaomi_sm6150-common",
+        "target_path": "vendor/xiaomi/sm6150-common",
+        "branch": "ng-v4",
+        "remote": "gitlab"
+    },
+    {
+        "repository": "droid-ng/android_vendor_xiaomi_sweet-miuicamera",
+        "target_path": "vendor/xiaomi/sweet-miuicamera",
+        "branch": "ng-v4",
+        "remote": "gitlab"
+    },
+    {
+        "repository": "LineageOS/android_hardware_xiaomi",
+        "target_path": "hardware/xiaomi",
+        "branch": "lineage-20"
+    }
+]
